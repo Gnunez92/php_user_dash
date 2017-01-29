@@ -1,0 +1,19 @@
+div{
+    width:200px;
+    display:inline-block;
+    margin-left:100px;
+    vertical-align:top;
+}
+h2{
+    margin-left:50px;
+}
+input{
+    margin:5px 0;
+}
+.desc{
+    margin-left:100px;
+}
+textarea{
+    resize:none;
+    width:470px;
+}

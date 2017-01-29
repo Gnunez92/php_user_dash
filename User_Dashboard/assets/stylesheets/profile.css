@@ -1,0 +1,35 @@
+h2, p, textarea{
+    margin-left:50px;
+}
+p{
+    width: 200px;
+    display:inline-block;
+}
+.description{
+    width:auto;
+}
+
+textarea{
+    resize:none;
+    width:90%;
+}
+input{
+    display:block;
+    margin:5px 0;
+    margin-left:91%
+}
+.message p{
+    display:block;
+    width:auto;
+}
+.tab{
+    margin-left:100px;
+}
+small{
+    display:block;
+    margin: 10px 0;
+}
+
+.comment{
+    margin-left:75px;
+}

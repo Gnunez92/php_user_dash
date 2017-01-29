@@ -1,0 +1,32 @@
+.header{
+    display:block;
+    width:auto;
+    position:relative;
+    border-bottom:2px solid black;
+    margin:0;
+}
+.header h2,h3{
+    display:inline-block;
+    margin-top:10px;
+    margin-left: 50px;
+}
+.header a{
+    margin:0;
+}
+a{
+    text-decoration: none;
+    color:gray;
+}
+.session{
+
+    display:inline-block;
+    position:absolute;
+    right:100px;
+    top:20px;
+}
+.admin_link{
+    display:inline-block;
+    position:absolute;
+    right:105px;
+    top:85px;
+}

@@ -1,0 +1,17 @@
+h2,table{
+    margin-left:50px;
+}
+table{
+    width:90%;
+    border:1px solid black;
+    border-collapse:collapse;
+}
+td{
+    padding:5px;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-top:1px solid lightgrey;
+}
+thead{
+    background-color:lightgray;
+}
